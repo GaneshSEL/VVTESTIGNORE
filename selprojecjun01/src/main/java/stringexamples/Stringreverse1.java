@@ -7,7 +7,7 @@ public class Stringreverse1
 	 
 	 {
 		 //String revertedstring= Stringreverse.reverseeachword("Omnience Events India Pvt Ltd");
-		// testing
+		// testing2
 		 
 		 System.out.println(reverseWord("omnience events india pvt ltd"));    
 	 }
